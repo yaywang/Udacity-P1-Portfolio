@@ -12,14 +12,11 @@ h4 {
 	font-family: 'Roboto', sans-serif;
 }
 
-
 img {
 	width: 100%;
 }
 
-
 /* Header */
-
 
 /* ??? flex over inline-block or float and why */
 /* flex chosen over minor style preferences, esp.
@@ -32,7 +29,6 @@ header {
 	-webkit-justify-content: space-between;
 }
 
-
 /* keeps the total height for my-name and logo
    the same, to align img with text
  */
@@ -40,18 +36,15 @@ header {
 	margin: 10px;
 }
 
-
 .logo-img {
 	height: 55px;
 	width: 55px;
 }
 
-
 .my-name {
 	text-align: center;
 	margin: 5px;
 }
-
 
 h1 {
 	color: #747704;
@@ -59,12 +52,10 @@ h1 {
 	font-size: 2.5em;
 }
 
-
 h4 {
 	color: #747704;
 	font-weight: 400;
 }
-
 
 /* overrides the bootstrap default */
 hr {
@@ -72,20 +63,17 @@ hr {
 	border-top: 3px solid #afb224;
 }
 
-
 /* Main contents */
 
 .work-heading {
 	margin: 15px 5px 5px;
 }
 
-
 h3 {
 	color: #afb224;
 	font-weight: normal;
 	font-size: 1.5em;
 }
-
 
 /* the portfolio gallery */
 
@@ -94,11 +82,9 @@ h3 {
 	position: relative;
 }
 
-
 .folio-img {
 	border: 1px solid #afb224;
 }
-
 
 .folio-description {
 	display: none;
@@ -109,12 +95,10 @@ h3 {
 	height: 100%;
 }
 
-
 .folio-name {
 	margin-top: 20%;
 	text-align: center;
 }
-
 
 h2 {
 	color: #40abff;
@@ -129,19 +113,16 @@ h2 {
 	text-align: center;
 }
 
-
 /* classes toggled by Jquery mouse events */
 
 .active {
 	display: block;
 }
 
-
 .dim {
 	opacity: 0.2;
 	z-index: -2;
 }
-
 
 /* break-word take effect on display sizes
    just above 768 px.
@@ -153,7 +134,6 @@ a:focus {
 	font-size: 0.7em;
 	color: #40abff;
 }
-
 
 a:focus {
 	font-size: 1em;
@@ -167,11 +147,9 @@ a:focus {
 		height: 85px;
 	}
 
-
 	.my-name {
 		text-align: right;
 	}
-
 
 	hr {
 		margin-bottom: 20px;
