@@ -4,14 +4,14 @@ This project was part of Udacity's training process.
 
 New skills:
 * HTML5 semantic tags.
-* Using JShint and JS beautifier sublime plugins.
+* Use JShint and JS beautifier sublime plugins.
 
-It deepens other skills:
+Old ones:
 * Web design.
 * Bootstrap carousels and layout components.
-* Choosing among flexbox, float, and inline-block.
-* Using media queries in a mobile-first process.
-* event listeners.
+* Choose among flexbox, float, and inline-block.
+* Use media queries in a mobile-first process.
+* Eevent listeners.
 * Grunt linters and responsive-images.
 * Project management with Git.
 
